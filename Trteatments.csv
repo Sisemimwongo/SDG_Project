@@ -1,0 +1,31 @@
+TreatmentID,TreatmentName,Cost
+1,Chemotherapy,10000
+2,"Physical Therapy",500
+3,Vaccination,100
+4,"MRI Scan",1500
+5,"Blood Test",200
+6,X-Ray,300
+7,Ultrasound,400
+8,Surgery,20000
+9,"Radiation Therapy",15000
+10,Dialysis,2500
+11,"Insulin Therapy",150
+12,"Heart Bypass Surgery",30000
+13,"Cardiac Rehabilitation",1000
+14,"Chiropractic Care",75
+15,Acupuncture,80
+16,"Speech Therapy",150
+17,"Nutritional Counseling",200
+18,"Palliative Care",500
+19,Osteopathy,120
+20,"Occupational Therapy",200
+21,Psychotherapy,100
+22,"Laser Surgery",5000
+23,"Dermatological Treatment",200
+24,"Infusion Therapy",1000
+25,"Weight Management Program",300
+26,"Gene Therapy",30000
+27,Endoscopy,2000
+28,Colonoscopy,1500
+29,"Joint Replacement Surgery",20000
+30,"Telehealth Consultation",100

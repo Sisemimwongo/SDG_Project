@@ -1,0 +1,50 @@
+DoctorID,Name,Specialty
+1,"Dr. John Smith",Cardiology
+2,"Dr. Jane Doe",Pediatrics
+3,"Dr. Emily Johnson",Dermatology
+4,"Dr. Michael Brown",Neurology
+6,"Dr. David Wilson",Orthopedics
+7,"Dr. Maria Garcia",Endocrinology
+8,"Dr. Robert Martinez",Ophthalmology
+9,"Dr. Jessica Lee",Psychiatry
+10,"Dr. William Thomas",Gastroenterology
+11,"Dr. Linda Anderson",Rheumatology
+12,"Dr. Charles Jackson",Hematology
+13,"Dr. Patricia White",Pulmonology
+14,"Dr. Daniel Harris",Anesthesiology
+15,"Dr. Thomas Clark",Urology
+16,"Dr. Elizabeth Lewis",Oncology
+17,"Dr. Christopher Robinson","Infectious Disease"
+18,"Dr. Barbara Hall","Family Medicine"
+19,"Dr. Matthew Allen",Neurosurgery
+20,"Dr. Susan Young","Plastic Surgery"
+21,"Dr. Anthony King","Internal Medicine"
+22,"Dr. Jessica Wright","Emergency Medicine"
+23,"Dr. Joshua Scott","Pediatric Surgery"
+24,"Dr. Karen Green",Geriatrics
+25,"Dr. Nancy Adams",Pathology
+26,"Dr. Steven Baker",Radiology
+27,"Dr. Deborah Gonzalez","Sports Medicine"
+28,"Dr. Brian Nelson","Vascular Surgery"
+29,"Dr. Jennifer Carter","Allergy and Immunology"
+30,"Dr. Edward Mitchell","Clinical Genetics"
+31,"Dr. Lisa Perez","Obstetrics and Gynecology"
+32,"Dr. Ronald Roberts","Occupational Medicine"
+33,"Dr. Anthony Turner","Colorectal Surgery"
+34,"Dr. Kevin Phillips","Palliative Care"
+35,"Dr. Maria Campbell","Hospital Medicine"
+36,"Dr. Sandra Parker","Critical Care Medicine"
+37,"Dr. Christopher Evans","Transplant Surgery"
+38,"Dr. Jessica Edwards","Sleep Medicine"
+39,"Dr. Larry Collins","Medical Oncology"
+40,"Dr. Helen Stewart","Geriatric Psychiatry"
+41,"Dr. Paul Sanchez","Child Psychiatry"
+42,"Dr. Barbara Morris","Nuclear Medicine"
+43,"Dr. Steven Rogers",Neuropsychology
+44,"Dr. Timothy Reed","Wound Care"
+45,"Dr. Margaret Cook","Forensic Psychiatry"
+46,"Dr. Donald Morgan","Nursing Practice"
+47,"Dr. Michelle Bell",Telemedicine
+48,"Dr. Angela Rivera","Acute Care Surgery"
+49,"Dr. Brian Gonzalez",Hematopathology
+50,"Dr. Sarah Martinez","Pediatric Cardiology"
